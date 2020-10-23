@@ -1,0 +1,6 @@
+print('Name: Diego Rodrigues \t Date:10/21/2020')
+print('\t')
+print('\"Computer Science is no more about computer')
+print('than astromy is about telescopes\"')
+print('- Edger W. Dijkstra')
+input()
